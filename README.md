@@ -21,3 +21,24 @@ Clone the repository and run:
 
 ```bash
 python main.py
+
+DFS:
+A B D E F
+
+BFS:
+A B C D E F
+
+DLS:
+A B D E F
+
+IDS:
+Depth limit: 0
+A 
+Depth limit: 1
+A B C 
+Depth limit: 2
+A B D E F
+
+UCS:
+A B C E F
+Reached F with cost 4
